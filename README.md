@@ -3,7 +3,7 @@
 # Laurel Bot - The HR Bot
 [![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
 
-![mil-dark-caption-logo](https://user-images.githubusercontent.com/25320466/42839373-86ad671a-89d1-11e8-988d-b8deb237f6cc.jpg)
+![mil-dark-caption-logo](https://user-images.githubusercontent.com/25320466/42839454-c7b069ce-89d1-11e8-9103-3765bcd251ed.png)
 
 ---
 **Author** : Manasa Sutapalli\
