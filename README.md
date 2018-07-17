@@ -39,7 +39,7 @@ Access to MS Bot Framework - [https://dev.botframework.com/bots/new](https://dev
 HR Bot is a virtual HR which can help us with multiple services like booking a conference room, paycheck details, holiday details, transportation details and for applying for leave. It has the capability of sending proactive messages to all the users after getting the payslip every month. 
 
 #### Functions And Features
-*Application architecture can be found in /docs*
+*Application architecture can be found in docs*
 
 - Dialog flow for the bot using MS Bot Framework
 - Multi-channel integration for MS Teams, Skype, Slack, SFB
