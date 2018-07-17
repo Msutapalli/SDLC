@@ -3,6 +3,8 @@
 # Laurel Bot - The HR Bot
 [![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
 
+![mil-dark-caption-logo](https://user-images.githubusercontent.com/25320466/42839142-bc1deace-89d0-11e8-91d4-4a11ff3a76f6.png)
+
 ---
 **Author** : Manasa Sutapalli\
 **Project Manager** : Akash Pavate\
