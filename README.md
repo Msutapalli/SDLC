@@ -52,20 +52,20 @@ HR Bot is a virtual HR which can help us with multiple services like booking a c
 NLP consists of systematic processes for analyzing, understanding, and deriving information from the text data in a smart and efficient manner. By utilizing NLP and its components, we can organize the massive chunks of text data, perform numerous automated tasks and solve a wide range of problems.
  
 ##### Dialog Flow
-**User** : Hello
-**Bot** : Hello!!! I'm Laurel Bot, how can I help you?
-**User** : What can you do?
-**Bot** : I can help you with booking a conference room, paycheck details, apply for leave.
-**User** : Book a conference room
-**Bot** : Sure, I can help you with that. May I know the date for which you need a room? (Ex. 25 July 2018 or 07/25/2018)
-**User** :  24 July 2018
-**Bot** : At what time will you be checking in ? (Ex. 1:30 pm)
-**User** : 12.30PM
-**Bot** : For how long (in minutes) would you use the room ?
-**User** : 60mins
-**Bot** : How many people would be joining in ?
-**User** : 10
-**Bot** : So, you want to reserve a conference room on Friday, September 22, 2017 from 11:00 AM to 12:00 PM with a capacity of 8 people.
+**User** : Hello\
+**Bot** : Hello!!! I'm Laurel Bot, how can I help you?\
+**User** : What can you do?\
+**Bot** : I can help you with booking a conference room, paycheck details, apply for leave.\
+**User** : Book a conference room\
+**Bot** : Sure, I can help you with that. May I know the date for which you need a room? (Ex. 25 July 2018 or 07/25/2018)\
+**User** :  24 July 2018\
+**Bot** : At what time will you be checking in ? (Ex. 1:30 pm)\
+**User** : 12.30PM\
+**Bot** : For how long (in minutes) would you use the room ?\
+**User** : 60mins\
+**Bot** : How many people would be joining in ?\
+**User** : 10\
+**Bot** : So, you want to reserve a conference room on Friday, September 22, 2017 from 11:00 AM to 12:00 PM with a capacity of 8 people.\
 **User** : Thank you
 
 *Should continue the same flow for other use cases as well*
