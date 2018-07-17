@@ -19,9 +19,9 @@
 
 The following are the technologies should be used for developing this use case. 
 
-**Code Editor** : Visual Studio
-**Version** : 2015 
-**Hosting Server** : Microsoft Azure
+**Code Editor** : Visual Studio\
+**Version** : 2015\
+**Hosting Server** : Microsoft Azure\
 **Bot Framework** : Microsoft Bot Framework, LUIS
 
 #### Setup Instructions
